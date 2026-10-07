@@ -7,7 +7,7 @@ description: Find UF vs South Carolina parking tips for October 10, 2026 in Gain
 readTime: 5
 ---
 
-Florida returns to The Swamp on **Saturday, October 10, 2026** to host South Carolina, with kickoff scheduled for **12:45 p.m. ET** at Ben Hill Griffin Stadium.
+Florida returns to The Swamp on **Saturday, October 10, 2026** to host South Carolina, with kickoff in the **12–1 p.m. ET early window** at Ben Hill Griffin Stadium.
 
 An early kickoff changes the parking equation. Instead of having all afternoon to make your way into Gainesville, fans are competing for roads, tailgate space, and parking much earlier in the day.
 
@@ -17,7 +17,7 @@ If you are driving to the game, the best plan is to know where you are parking b
 
 - **Matchup:** Florida Gators vs South Carolina Gamecocks
 - **Date:** Saturday, October 10, 2026
-- **Kickoff:** 12:45 p.m. ET
+- **Kickoff:** Early window (12–1 p.m. ET)
 - **Stadium:** Ben Hill Griffin Stadium
 - **City:** Gainesville, Florida
 
